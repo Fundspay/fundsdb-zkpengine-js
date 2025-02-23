@@ -99,9 +99,9 @@ Generates a Zero-Knowledge Proof for the given SQL query.
 Verifies the Zero-Knowledge Proof.
 
 ## License
-`zkengine` is open-source and licensed under the MIT License.
+`zkengine` is open-source and licensed under the GNU GPL v3 License.
 
 ---
 
-For more details, visit the [GitHub repository](https://github.com/Fundspay/fundsweb-zkpengie).
+For more details, visit the [GitHub repository](https://github.com/Fundspay/fundsdb-zkpengine-js).
 
